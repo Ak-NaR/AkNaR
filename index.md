@@ -1,6 +1,6 @@
 PixiJS — The HTML5 Creation Engine
 =============
-<body background="8489.jpg">
+[body background](8489.jpg)
 
  ![pixi.js logo](8489.jpg)
 
